@@ -14,7 +14,8 @@ layout: about
 * <b>Pusan National University</b>, <i>M.S. in Industrial Engineering</i>, 2023. (expc.) \\
 \- Major in Industrial Data Science and Engineering \\
 \- Advisor: Soondo Hong \\
-\- Provisional thesis title: “Order picking optimization to mitigate Temporal Workload imbalance under Worker-centric perspective”
+\- Thesis title: "Order Batching and Sequencing for Temporal Workload Balancing in a Sequential Zone Order Picking System” \\
+(Outstanding Paper/Presentation Award from Department of Industrial Engineering, Pusan National University, 2023)
 
 * <b>Pusan National University</b>, <i>B.S. (Magna Cum Laude) in Industrial Engineering</i>, 2022. \\
 \- Second Major: Big Data Interdepartmental Major
@@ -25,7 +26,7 @@ layout: about
 
 ### Papers under review
 1. <b>J. Park</b>, P. Joatiko, C. Park, S. Hong, “Gaussian process-based storage location assignments with risk
-assessments for progressive zone picking systems”, under review in <i>European Journal of Operational Research</i>, (2022)
+assessments for progressive zone picking systems”, under review in <i>Computers and Industrial Engineering</i>, (2023)
 
 ### Papers in-preparation
 1. <b>J. Park</b>, H.Y. Fibrianto, S. Hong, “Order batching and sequencing for 2-dimensional workload balancing in sequential zone order picking system”, To be submitted to <i>IISE transactions</i>
@@ -41,14 +42,17 @@ Conference and Expo 2022</i>, Institute of Industrial and Systems Engineers, IIS
 <br/>
 
 # <span style="color:DarkBlue"> Presentations</span>
-1. ”Storage assignment based on Gaussian Process surrogate modeling”, Data-driven optimization joint
+1. "Feature Generation for Storage Location Assignment based on Flow Time Estimation", The Joint conference of KIIE/KORMS, June 1-2, 2023, Jeju, Korea
+2. ”Storage assignment based on Gaussian Process surrogate modeling”, Data-driven optimization joint
 workshop, August 2-3, 2022, POSTECH, Pohang, Korea
-2. ”AS/RS material handling system optimization”, LG CNS Entrue exchange meeting, August 19, 2022,
+3. ”AS/RS material handling system optimization”, LG CNS Entrue exchange meeting, August 19, 2022,
 Pusan National University, Busan, Korea
 
 <br/>
 
 # <span style="color:DarkBlue"> Patents</span>
+1. S. Hong, **J. Park**, 2023, "APPARATUS AND METHOD FOR DETERMINING THE OPTIMAL LOADING POSITION OF ORDERED PRODUCTS", Korean Patent Application 10-2023-
+0030777, filed March 8 2023, Patent Pending
 1. S. Hong, **J. Park**, J. Jeong, J.Lee, M. Lim, Y. Choi, 2021, “Apparatus for foresight analysis of passenger
 usage for selecting the optimal stop station for express trains”, Korean Patent Application 10-2021-
 0020132, filed February 15 2021, Patent Pending

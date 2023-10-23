@@ -6,13 +6,13 @@ layout: about
 * <b>Methodologies</b> \\
   Simulation, Machine learning, Meta heuristics, Mixed integer programming
 * <b>Applications</b> \\
-  Supply chain management, Manufacturing and Logistics systems, Material handling, Scheduling
+  Manufacturing and Logistics systems, Material handling, Scheduling
 
 <br/>
 
 # <span style="color:DarkBlue"> Education </span>
-* <b>Pusan National University</b>, <i>M.S. in Industrial Engineering</i>, 2023. (expc.) \\
-\- Major in Industrial Data Science and Engineering \\
+* <b>Arizona State University</b>,<i>Ph.D. in Industrial Engineering</i> (present) \\
+* <b>Pusan National University</b>, <i>M.S. in Industrial Engineering</i>, 2023. \\
 \- Advisor: Soondo Hong \\
 \- Thesis title: "Order Batching and Sequencing for Temporal Workload Balancing in a Sequential Zone Order Picking System” \\
 (Outstanding Paper/Presentation Award from Department of Industrial Engineering, Pusan National University, 2023)
@@ -25,23 +25,25 @@ layout: about
 # <span style="color:DarkBlue"> Publications </span>
 
 ### Papers under review
-1. <b>J. Park</b>, P. Joatiko, C. Park, S. Hong, “Gaussian process-based storage location assignments with risk
-assessments for progressive zone picking systems”, under review in <i>Computers and Industrial Engineering</i>, (2023)
+1. <b>J. Park</b>, H.Y. Fibrianto, S. Hong, Order Batching and Sequencing for Temporal Workload Balancing in a Sequential Zone Order Picking System, To be submitted to <i>IISE transactions</i>
 
 ### Papers in-preparation
-1. <b>J. Park</b>, H.Y. Fibrianto, S. Hong, “Order batching and sequencing for 2-dimensional workload balancing in sequential zone order picking system”, To be submitted to <i>IISE transactions</i>
+1. <b>J. Park</b>, S. Hong, Multi-Swap Simulated Annealing Algorithm for Order Batching and Sequencing Problem in a Sequential Zone Picking System”</i>
 
 ### Peer-reviewed conference articles and Book chapters
-1. <b>J. Park</b>, P. Joatiko, C. Park, S. Hong, “Average flow time estimation and its application for storage
+1. <b>J. Park</b>, P. Joatiko, C. Park, S. Hong, “Gaussian process-based storage location assignments with risk
+assessments for progressive zone picking systems”, under review in <i>Computers and Industrial Engineering</i>, (2023)
+2. <b>J. Park</b>, P. Joatiko, C. Park, S. Hong, “Average flow time estimation and its application for storage
 relocation in an order picking system”, <i>IFIP International Conference on Advances in Production</i>
 Management Systems, 663, 60-66, (2022)
-2. <b>J. Park</b>, H.Y. Fibrianto, S. Hong, “Order Batching and sequencing in a sequential zone order picking
+3. <b>J. Park</b>, H.Y. Fibrianto, S. Hong, “Order Batching and sequencing in a sequential zone order picking
 system with consideration of workload balance”, In K. Ellis, W. Ferrell, J. Knapp (Eds.), <i>IISE Annual
 Conference and Expo 2022</i>, Institute of Industrial and Systems Engineers, IISE, (2022)
 
 <br/>
 
 # <span style="color:DarkBlue"> Presentations</span>
+1. "Multi-Swap Simulated Annealing Algorithm for Order Batching and Sequencing Problem in a Sequential Zone Picking System" INFORMS 2023 Annual Meeting, October 14-18, 2023, Phoenix, USA
 1. "Feature Generation for Storage Location Assignment based on Flow Time Estimation", The Joint conference of KIIE/KORMS, June 1-2, 2023, Jeju, Korea
 2. ”Storage assignment based on Gaussian Process surrogate modeling”, Data-driven optimization joint
 workshop, August 2-3, 2022, POSTECH, Pohang, Korea

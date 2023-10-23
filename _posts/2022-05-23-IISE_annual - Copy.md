@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Presenting at the INFORMS 2023 annual meeting in Phoenix"
+type: "Presentation"
+info: "INFORMS 2023 Anuual Meeting"
+header:
+    teaser: "/assets/img/INFORMS2023_2.jpg"
+author: "Jeongwon Park"
+categories:
+  - achievement
+tags:
+  - achievement
+---
+<img align="center" width="1200" height="675" style="border: 1px solid white" src="/../assets/img/INFORMS2023_1.jpg">
+<img align="center" width="1200" height="675" style="border: 1px solid white" src="/../assets/img/INFORMS2023_2.jpg"> 
+
+Jeongwon Park gave a presentation in the INFORMS 2023 annual meeting in Phoenix. \\
+His presentation topic was "Multi-Swap Simulated Annealing Algorithm for Order Batching and Sequencing Problem in a Sequential Zone Picking System".

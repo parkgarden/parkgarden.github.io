@@ -12,6 +12,7 @@ layout: about
 
 # <span style="color:DarkBlue"> Education </span>
 * <b>Arizona State University</b>,<i>Ph.D. in Industrial Engineering</i> (present) \\
+\- Advisor: Feng Ju \\
 * <b>Pusan National University</b>, <i>M.S. in Industrial Engineering</i>, 2023. \\
 \- Advisor: Soondo Hong \\
 \- Thesis title: "Order Batching and Sequencing for Temporal Workload Balancing in a Sequential Zone Order Picking System” \\
@@ -25,20 +26,30 @@ layout: about
 # <span style="color:DarkBlue"> Publications </span>
 
 ### Papers under review
-1. <b>J. Park</b>, H.Y. Fibrianto, S. Hong, Order Batching and Sequencing for Temporal Workload Balancing in a Sequential Zone Order Picking System, To be submitted to <i>IISE transactions</i>
+1. <b>J. Park</b>, H.Y. Fibrianto, S. Hong, "Balancing Temporal Workloads in Sequential Zone Order Picking
+Systems through Order Batching and Sequencing", under review in <i>IISE transactions</i>
+
+2. <b>J. Park</b>, Y. Su, F. Ju, “Efficient Job Shop Scheduling via Graph based Deep Reinforcement Learning
+with Adaptive Multi-Action Selection”, under review in <i>IEEE International Conference on Automation
+Science and Engineering (CASE)</i>, (2024)
 
 ### Papers in-preparation
 1. <b>J. Park</b>, S. Hong, Multi-Swap Simulated Annealing Algorithm for Order Batching and Sequencing Problem in a Sequential Zone Picking System”</i>
 
+### Refereed Journal Articles
+1. <b>J. Park</b>, C. Park, S. Hong, “Gaussian process-based storage location assignments with risk assessments for progressive zone picking systems”, under review in <i>Computers and Industrial Engineering</i>, 185, 109700 (2023)
+
 ### Peer-reviewed conference articles and Book chapters
-1. <b>J. Park</b>, P. Joatiko, C. Park, S. Hong, “Gaussian process-based storage location assignments with risk
-assessments for progressive zone picking systems”, under review in <i>Computers and Industrial Engineering</i>, (2023)
-2. <b>J. Park</b>, P. Joatiko, C. Park, S. Hong, “Average flow time estimation and its application for storage
+
+1. <b>J. Park</b>, P. Joatiko, C. Park, S. Hong, “Average flow time estimation and its application for storage
 relocation in an order picking system”, <i>IFIP International Conference on Advances in Production</i>
 Management Systems, 663, 60-66, (2022)
-3. <b>J. Park</b>, H.Y. Fibrianto, S. Hong, “Order Batching and sequencing in a sequential zone order picking
+2. <b>J. Park</b>, H.Y. Fibrianto, S. Hong, “Order Batching and sequencing in a sequential zone order picking
 system with consideration of workload balance”, In K. Ellis, W. Ferrell, J. Knapp (Eds.), <i>IISE Annual
 Conference and Expo 2022</i>, Institute of Industrial and Systems Engineers, IISE, (2022)
+3. Y. Li, <b>J. Park</b>, G. Manogharan, F. Ju and I. Kovalenko, , ”A Mobile Additive Manufacturing Robot
+Framework for Smart Manufacturing Systems”, <i>ASME 2024 19th International Manufacturing Science
+and Engineering Conference</i>, (2024)
 
 <br/>
 
@@ -77,7 +88,8 @@ in the platform for setting the optimal operating cycle of express trains”, Ko
 <br/>
 
 # <span style="color:DarkBlue"> Awards</span>
-* PNU-Fellowship, Pusan National University, 2022 
+* Fulton Fellowship Award, Arizona State University, 2023
+* PNU-Fellowship Award, Pusan National University, 2022 
 * Travel Grant for IISE conference presentation, Pusan National University, 2022
 * Third Prize, Capstone design competition, Pusan National University, 2021
 * Third Prize, Student project competition, The Korean Society of SCM, 2021

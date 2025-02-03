@@ -11,7 +11,7 @@ layout: about
 <br/>
 
 # <span style="color:DarkBlue"> Education </span>
-* <b>Arizona State University</b>,<i>Ph.D. in Industrial Engineering</i> (present) \\
+* <b>Arizona State University</b>, <i>Ph.D. in Industrial Engineering</i> (present) \\
 \- Advisor: Feng Ju \\
 * <b>Pusan National University</b>, <i>M.S. in Industrial Engineering</i>, 2023. \\
 \- Advisor: Soondo Hong \\
@@ -26,12 +26,8 @@ layout: about
 # <span style="color:DarkBlue"> Publications </span>
 
 ### Papers under review
-1. <b>J. Park</b>, H.Y. Fibrianto, S. Hong, "Balancing Temporal Workloads in Sequential Zone Order Picking
-Systems through Order Batching and Sequencing", under review in <i>IISE transactions</i>
+1. <b>J. Park</b>, H.Y. Fibrianto, S. Hong, "Optimizing Blocking and Starving Delays in Sequential Zone Order Picking Systems through Time-Decomposed Workload Balancing", under review in <i>Computers and Operations Research</i>
 
-2. <b>J. Park</b>, Y. Su, F. Ju, “Efficient Job Shop Scheduling via Graph based Deep Reinforcement Learning
-with Adaptive Multi-Action Selection”, under review in <i>IEEE International Conference on Automation
-Science and Engineering (CASE)</i>, (2024)
 
 ### Papers in-preparation
 1. <b>J. Park</b>, S. Hong, Multi-Swap Simulated Annealing Algorithm for Order Batching and Sequencing Problem in a Sequential Zone Picking System”</i>
@@ -50,6 +46,9 @@ Conference and Expo 2022</i>, Institute of Industrial and Systems Engineers, IIS
 3. Y. Li, <b>J. Park</b>, G. Manogharan, F. Ju and I. Kovalenko, , ”A Mobile Additive Manufacturing Robot
 Framework for Smart Manufacturing Systems”, <i>ASME 2024 19th International Manufacturing Science
 and Engineering Conference</i>, (2024)
+4. <b>J. Park</b>, Y. Su, F. Ju, “Efficient Job Shop Scheduling via Graph based Deep Reinforcement Learning
+with Adaptive Multi-Action Selection”, under review in <i>IEEE International Conference on Automation
+Science and Engineering (CASE)</i>, (2024)
 
 <br/>
 

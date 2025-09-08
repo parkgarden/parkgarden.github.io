@@ -69,13 +69,13 @@ August 17-21, Los Angeles, California, USA
 # <span style="color:DarkBlue"> Patents</span>
 1. I. Kovalenko, Y. Li, **J. Park**, G. Manogharan, F. Ju, 2024, "MOBILE ADDITIVE MANUFACTURING ROBOT FRAMEWORK FOR SMART MANUFACTURING SYSTEMS", US Patent Application 63/738,017, filed December 23 2024, Patent Pending
 1. S. Hong, **J. Park**, 2023, "APPARATUS AND METHOD FOR DETERMINING THE OPTIMAL LOADING POSITION OF ORDERED PRODUCTS", Korean Patent Application 10-2023-
-0030777, filed March 8 2023, Patent Pending
-1. S. Hong, **J. Park**, J. Jeong, J.Lee, M. Lim, Y. Choi, 2021, “Apparatus for foresight analysis of passenger
-usage for selecting the optimal stop station for express trains”, Korean Patent Application 10-2021-
-0020132, filed February 15 2021, Patent Pending
+0030777, filed March 8 2023, and issued June 26, 2025.
 2. S. Hong, **J. Park**, J. Jeong, C. Choi, 2022, “Apparatus for foresight analysis of passenger congestion
 in the platform for setting the optimal operating cycle of express trains”, Korean Patent Application
 10-2022-0015214, filed February 7 2022, Patent Pending
+1. S. Hong, **J. Park**, J. Jeong, J.Lee, M. Lim, Y. Choi, 2021, “Apparatus for foresight analysis of passenger
+usage for selecting the optimal stop station for express trains”, Korean Patent Application 10-2021-
+0020132, filed February 15 2021, Patent Pending
 
 <br/>
 

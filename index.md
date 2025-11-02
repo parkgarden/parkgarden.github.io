@@ -6,7 +6,7 @@ layout: about
 * <b>Methodologies</b> \\
   Simulation, Machine learning, Reinforcement learning, Meta heuristics, Mixed integer linear programming
 * <b>Applications</b> \\
-  Manufacturing and Logistics systems, Material handling, Scheduling
+  Manufacturing and Logistics systems, Material handling, Scheduling, Satellite task scheduling
 
 <br/>
 
@@ -79,15 +79,33 @@ usage for selecting the optimal stop station for express trains”, Korean Paten
 
 <br/>
 
-# <span style="color:DarkBlue"> Projects</span>
-1. Advancement of Resource Circulation (Remanufacturing) industry
+# <span style="color:DarkBlue"> Experiences </span>
+* <b>Graduate Research Associate</b>, Arizona State University, Tempe, Arizona (Aug. 2023 - Present)
+\- Designed a deep-RL framework (PPO + PyTorch) for large-scale scheduling; reduced makespan by 6.39% and cut runtime by 45.26% vs. a state-of-the-art baseline. <br/>
+\- Built a discrete-event simulation (ARENA) for mobile additive-manufacturing robots; increased projected throughput by 32.87% over a 24-hour horizon. <br/>
+\- Prepared and submitted 2 conference abstracts and 3 peer-reviewed manuscripts.
+* <b>Research Assistant</b>, Pusan National University, Busan, South Korea (Jul. 2020 - Aug. 2023) <br/>
+\- Proposed a data-driven storage location assignment method for e-commerce warehouses; reduced flow time by 7.51% and reassignments by 43.25% in simulation (Plant Simulation). <br/>
+\- Improved picking productivity by 27.65% in zone picking via time-decomposed workload balancing. <br/>
+\- Published 2 journal papers and presented at 4 academic conferences.
+* <b>Teaching Assistant</b>, Pusan National University, Busan, South Korea <br/>
+\- Graduate Simulation course at Pusan National University (Spring 2023) <br/>
+\- Undergraduate Facility planning course at Pusan National University (Spring 2023) <br/>
+\- Undergraduate Engineering economy course at Pusan National University (Spring 2022) <br/>
+*  <b>Graduate Student Co-op</b>, DAOU, Busan, South Korea (Sep. 2022 - Dec. 2022) <br/>
+\- Funded by <i>Korea Energy Technology Evaluation and Planning</i> <br/>
+\- Formulated a MILP in Python/CPLEX for a flexible flow shop (automobile pipe production); reduced completion time by 16.04% vs. current schedule; validated with a simulation model (Plant Simulation).
+* <b>Data engineering Student Co-op</b>, YPolaris Corp., Busan, South Korea (Aug. 2020 - Dec. 2020) <br/>
+\- Led a 4-person team for human action classification with deep learning project; built a TensorFlow transfer-learning pipeline (data loaders, augmentation, training/eval); achieved 90% accuracy.
+
+<!-- 1. Advancement of Resource Circulation (Remanufacturing) industry
 (Funded by <i>Korea Energy Technology Evaluation and Planning</i>, Sep. 2022 - Dec. 2022)
 \- Scheduling automotive parts manufacturing processes for sustainability and productivity
 \- My role: mathematical modeling, data curation, experimental design, simulation validation
 2. Human action classification with Deep Learning approach
 (Industry-Academia Cooperation Project, Aug. 2020 - Dec. 2020)
 \- To develop python-based deep learning framework for classifying human action from video data
-\- My role: team leader, presenter, writing documents, model training and evaluation
+\- My role: team leader, presenter, writing documents, model training and evaluation -->
 
 <br/>
 
@@ -106,6 +124,7 @@ usage for selecting the optimal stop station for express trains”, Korean Paten
 <br/>
 
 # <span style="color:DarkBlue"> Scholarship & Funding</span>
+* Graduate Services Assistant, Arizona State University, 2025
 * Graduate Research Associate, Arizona State University, 2024
 * Graduate student tutoring Scholarship, Pusan National University, 2022
 * Research Assistant Scholarship, Pusan National University, 2022
@@ -124,7 +143,7 @@ usage for selecting the optimal stop station for express trains”, Korean Paten
 * Reviewer of IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Semiconductor Manufacturing, IEEE International Conference on Automation Science and Engineering, IEEE Robotics and Automation Letters, Winter Simulation Conference
 
 # <span style="color:DarkBlue"> SkillS & Interests</span>
-* Programming: Python, R-studio, Julia
-* Software & Tools: Plant Simulation, CPLEX ,LaTex
+* Programming: Python, R, SQL, Julia, HTML
+* Software & Tools: Plant Simulation, CPLEX, SPSS, LaTex
 * Interests: Basketball (PNU MAX basketball club president), Tennis
 

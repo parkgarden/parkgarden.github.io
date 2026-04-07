@@ -33,7 +33,7 @@ layout: about
 1. <b>J. Park</b>, S. Hong, Multi-Swap Simulated Annealing Algorithm for Order Batching and Sequencing Problem in a Sequential Zone Picking System" -->
 
 ### Refereed Journal Articles
-3. <b>J. Park</b>,  Y. Su, F. Ju, "Deep Reinforcement Learning with Dynamic Graph Pruning for Scalable Flexible Job Shop Scheduling", under review in <i>IISE Transactions</i>
+3. <b>J. Park</b>,  Y. Su, F. Ju, "Deep Reinforcement Learning with Dynamic Graph Pruning for Scalable Flexible Job Shop Scheduling", <i>IISE Transactions</i>, accepted for publication, (2026)
 2. <b>J. Park</b>,  S. Hong, "Optimizing Blocking and Starving Delays in Sequential Zone Order Picking Systems through Time-Decomposed Workload Balancing", <i>Computers and Operations Research</i>, 180, 107060
 (2025)
 1. <b>J. Park</b>, C. Park, S. Hong, “Gaussian process-based storage location assignments with risk assessments for progressive zone picking systems”, <i>Computers and Industrial Engineering</i>, 185, 109700 (2023)
